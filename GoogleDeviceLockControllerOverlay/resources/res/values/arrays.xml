@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="lock_task_allowlist">
+        <item>com.google.android.gms</item>
+    </array>
+</resources>

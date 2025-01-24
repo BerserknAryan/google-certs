@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="lock_task_allowlist" id="0x7f010000" />
+    <public type="integer" name="check_in_server_port_number" id="0x7f020000" />
+    <public type="string" name="check_in_server_host_name" id="0x7f030000" />
+</resources>
