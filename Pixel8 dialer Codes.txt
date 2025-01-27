@@ -1,0 +1,43 @@
+dz> run scanner.misc.secretcodes
+Attempting to run shell module
+Package: com.android.providers.calendar
+  225
+
+Package: com.google.android.apps.diagnosticstool
+  3823
+  3826
+  3827
+  7287
+
+Package: com.google.euiccpixel
+  3987
+  39871
+  39872
+  39873
+  39874
+  39875
+  39876
+  39877
+  39878
+  39879
+  398710
+  398711
+  398712
+  398713
+  398714
+  398715
+  398716
+  39876371
+  39876372
+
+Package: com.google.android.apps.work.oobconfig
+  7465625
+
+Package: com.shannon.imsservice
+  0702
+
+Package: com.android.settings
+  4636
+
+Package: com.google.android.cellbroadcastreceiver
+  2627
